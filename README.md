@@ -16,9 +16,10 @@ gcc -fopenmp -DPOLYBENCH_TIME -O2 -I../utilities atax.c ../utilities/polybench.c
 gcc -fopenmp -DPOLYBENCH_TIME -O2 -I../utilities 3mm.c ../utilities/polybench.c -o 3mm_acc
 
 ### openacc / gradient
+<Yet To setup>
 
-
-
+## Execution Commands:
+./<executable_file>
 
 
 
