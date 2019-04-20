@@ -23,4 +23,4 @@ ACCFLAGS = --codelet-required --openacc-target=$(TARGET_LANG)
 CC = gcc
 
 # Compiler flags
-CFLAGS = -O2
+CLAGS = -O2
